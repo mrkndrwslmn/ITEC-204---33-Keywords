@@ -1,6 +1,6 @@
 # Library Management System
 
-A simple Python-based application for managing a library's books and students. The system allows you to add and search for books, add students, check books in and out, collect fees, and remove students. Data is stored in CSV files for persistence.
+A simple Python-based application for managing a library's books and students. The system allows you to add and search for books, add students, check books in and out, collect fees, and remove students. Data is stored in CSV files.
 
 ## Features
 
